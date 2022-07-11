@@ -6,13 +6,7 @@ let handler = async (m, { conn }) => {
     // Kalo ngeyel gk bakal gw up sc lgi.
     
     let txt = `
-Bot ini menggunakan script github
-
-https://github.com/FokusDotId/Family-MD.git
-
-pliss follow dan kasih ✨⭐⭐🌟 ya pak!
-
-My Github: https://github.com/FokusDotId
+CHAT OWNER..
 
 `
      conn.reply(m.chat, txt, m)

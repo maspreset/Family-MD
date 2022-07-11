@@ -27,11 +27,11 @@ module.exports = {
         global.namabot = conn.user.name
         global.packname = global.namabot
         global.author = global.dataw.owner
-        //global.author = '𝑨𝒈𝒖𝒛 𝑭𝒂𝒎𝒊𝒍𝒊𝒂'
+        //global.author = 'aresmodz'
         //global.wm2 = global.data.namabot + ' ' + global.data.owner
-        global.wm = namabot + ' ву ƒσкυѕ ι∂'
+        global.wm = namabot + ' AlyaaXd'
         global.colong1 = 'Ciss 📸'
-        global.colong2 = 'ʙy ᴀɢᴜᴢ ꜰᴀᴍɪʟɪᴀ'
+        global.colong2 = 'aresmodz'
         global.bg = await (await fetch(img)).buffer()
 
         if (!m) return
